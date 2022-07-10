@@ -34,7 +34,7 @@ Hi there I'm Gurupriyan J
 
  &nbsp;<i><b>streak Rate</b></i><br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salsalvm&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurupriyan7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
 
