@@ -9,7 +9,7 @@ gurupriyan7/gurupriyan7 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 Hi there I'm salsal 
 
@@ -23,7 +23,7 @@ Hi there I'm salsal
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-   <a href="https://github.com/gurupriyan7"><img alt="gurupriyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=gurupriyan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/gurupriyan7"><img alt="gurupriyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurupriyan7&custom_title=gurupriyan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
