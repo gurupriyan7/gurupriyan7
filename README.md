@@ -9,9 +9,9 @@ gurupriyan7/gurupriyan7 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+<!---[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) --->
 
-Hi there I'm salsal 
+Hi there I'm Gurupriyan J
 
 <hr>
 
