@@ -18,14 +18,12 @@ Hi there I'm Gurupriyan J
 
 
 <!--  activity recent -->
- <p align="center">
-
- &nbsp;<i><b>Recent GitHub Activity</b></i>
- 
-
-   <a href="https://github.com/gurupriyan7"><img alt="gurupriyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurupriyan7&custom_title=gurupriyan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p align="center">
+  <a href="https://github.com/gurupriyan7">
+    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurupriyan7&custom_title=GitHub%20Activity%20Graph&theme=react-dark" />
+  </a>
 </p>
+
 
 <hr>
 
