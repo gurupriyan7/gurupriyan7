@@ -19,10 +19,13 @@ Hi there I'm Gurupriyan J
 
 <!--  activity recent -->
 <p align="center">
-  <a href="https://github.com/gurupriyan7">
-    <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurupriyan7&custom_title=GitHub%20Activity%20Graph&theme=react-dark" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gurupriyan7&show_icons=true&theme=radical" />
 </p>
+
+
+
+
+
 
 
 <hr>
