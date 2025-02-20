@@ -1,53 +1,95 @@
-# 🚀 Gurupriyan J | Full Stack Developer & Tech Enthusiast  
+- 👋 Hi, I’m @gurupriyan j
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-![Header](https://github.com/gurupriyan7/gurupriyan7/blob/main/banner.png)  
+<!---
+gurupriyan7/gurupriyan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-## 👋 Hey there! I'm Gurupriyan J  
+<!---[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) --->
 
-🔹 Passionate **Full Stack Developer** specializing in **TypeScript, React, Node.js, MongoDB**  
-🔹 Building **SaaS products**, **AI-driven applications**, and **Enterprise solutions**  
-🔹 Exploring **MERN stack, AI integrations**, and **Next.js** for high-performance apps  
+Hi there I'm Gurupriyan J
 
----
+<hr>
 
-## 🔥 Tech Stack & Tools  
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
----
+<!--  activity recent -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurupriyan7&show_icons=true&theme=radical" />
+</p>
 
-## 📈 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurupriyan7&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurupriyan7&theme=tokyonight&hide_border=true" width="48%" />
-</div>  
 
----
 
-## 🏆 Achievements  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurupriyan7&theme=radical&margin-h=15&margin-w=5&no-bg=true" width="100%" />
-</div>  
 
----
 
-## ✍️ Recent Code Snippet  
+<hr>
 
-```typescript
-// Optimized TypeScript function to fetch data with error handling
-const fetchData = async (url: string): Promise<any> => {
-  try {
-    const response = await fetch(url);
-    return await response.json();
-  } catch (error) {
-    console.error("Error fetching data:", error);
-  }
-};
+
+ <p align="center">
+
+ &nbsp;<i><b>streak Rate</b></i><br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurupriyan7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<hr>
+
+
+
+<p align="center">
+
+ &nbsp;<i><b>achievments</b></i>
+<br><br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=gurupriyan7&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<br>
+</p>
+ <hr>
+
+
+
+
+<!-- contact -->
+ <p align="center">
+
+ &nbsp;<i><b>Can Connect With Me On</b></i>
+ 
+ <p align="center"><br>
+<a href="https://www.linkedin.com/in/-7-9b9214232/" target="_blank">
+  <img align="center" alt="Gurupriyan J | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/gurupriyan" target="_blank">
+  <img align="center" alt="Gurupriyan J | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/hor_i_yon/" target="_blank">
+  <img align="center" alt="Gurupriyan J | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:gurupriyanj007@.com" >
+  <img align="center" alt="Gurupriyan J | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100011410772452">
+    <img align="center" alt="Gurupriyan J | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+
+  <!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/gurupriyan7/count.svg" />  
+</p>
+<hr>
+
+
+ 
+<!--  ddddhfgdhfak -->
