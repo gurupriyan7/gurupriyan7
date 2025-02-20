@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/gurupriyan7/gurupriyan7/blob/main/banner.png" alt="Gurupriyan J | Full Stack Developer" />
+  <img src="https://media.licdn.com/dms/image/v2/C5616AQFBkaHw2te3qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1658599877297?e=1745452800&v=beta&t=FhKzuML05wQJlHAGTnVtp8XdF1EVr7erNeHOooGXvAc" alt="Gurupriyan J | Full Stack Developer" />
 </p>
 
 # 👋 Hey, I'm Gurupriyan J!  
