@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5616AQFBkaHw2te3qQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1658599877297?e=1745452800&v=beta&t=FhKzuML05wQJlHAGTnVtp8XdF1EVr7erNeHOooGXvAc" alt="Gurupriyan J | Full Stack Developer" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEvau8U77jXZg/profile-displaybackgroundimage-shrink_350_1400/B56ZUjS1i2HEAc-/0/1740053902539?e=1745452800&v=beta&t=OkzO9QtmAZR6IrpqyecTs0WPQy4sBfX83nshHTKhV68" alt="Gurupriyan J | Full Stack Developer" />
 </p>
 
 # 👋 Hey, I'm Gurupriyan J!  
