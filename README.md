@@ -1,95 +1,76 @@
-- 👋 Hi, I’m @gurupriyan j
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gurupriyan7/gurupriyan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!---[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) --->
-
-Hi there I'm Gurupriyan J
-
-<hr>
-
-
-
-<!--  activity recent -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurupriyan7&show_icons=true&theme=radical" />
+  <img src="https://github.com/gurupriyan7/gurupriyan7/blob/main/banner.png" alt="Gurupriyan J | Full Stack Developer" />
 </p>
 
+# 👋 Hey, I'm Gurupriyan J!  
+🚀 Full Stack Developer | MERN | TypeScript | AI Integrations  
 
+🔹 **Building**: SaaS platforms, AI-driven applications, and high-performance web apps  
+🔹 **Stack**: TypeScript, React, Next.js, Node.js, MongoDB, GraphQL  
+🔹 **Learning**: AI Integrations, Blockchain, Cloud Computing  
+🔹 **Fun Fact**: I love Open Source and Competitive Coding  
 
+---
 
+## 🚀 Tech Stack & Tools  
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
-<hr>
+## 📊 GitHub Stats  
 
-
- <p align="center">
-
- &nbsp;<i><b>streak Rate</b></i><br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurupriyan7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<hr>
-
-
-
-<p align="center">
-
- &nbsp;<i><b>achievments</b></i>
-<br><br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=gurupriyan7&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurupriyan7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurupriyan7&theme=tokyonight&hide_border=true" width="48%" />
 </div>
-</p>
 
-<br>
-</p>
- <hr>
+---
 
+## 🏆 Achievements  
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gurupriyan7&theme=radical&margin-h=15&margin-w=5&no-bg=true" width="100%" />
+</div>  
 
+---
 
-<!-- contact -->
- <p align="center">
+## 📈 Contribution Graph  
 
- &nbsp;<i><b>Can Connect With Me On</b></i>
- 
- <p align="center"><br>
-<a href="https://www.linkedin.com/in/-7-9b9214232/" target="_blank">
-  <img align="center" alt="Gurupriyan J | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/gurupriyan" target="_blank">
-  <img align="center" alt="Gurupriyan J | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/hor_i_yon/" target="_blank">
-  <img align="center" alt="Gurupriyan J | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:gurupriyanj007@.com" >
-  <img align="center" alt="Gurupriyan J | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011410772452">
-    <img align="center" alt="Gurupriyan J | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
+[![Gurupriyan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurupriyan7&theme=react-dark&hide_border=true)](https://github.com/gurupriyan7)
 
-  <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/gurupriyan7/count.svg" />  
-</p>
-<hr>
+---
 
+## 🔥 Recent Activity  
 
- 
-<!--  ddddhfgdhfak -->
+<!--START_SECTION:activity-->
+1. 📝 Updated `README.md` with a modern design  
+2. 🚀 Worked on **AI-Powered SaaS App**  
+3. 🔄 Refactored **MERN Stack APIs** for better performance  
+4. 🏆 Earned **GitHub Streak Badge!**  
+<!--END_SECTION:activity-->
+
+---
+
+## 🛠 Code Snippet  
+
+```typescript
+// Optimized API Call with TypeScript
+const fetchData = async (url: string): Promise<any> => {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error("Network response was not ok");
+    return await response.json();
+  } catch (error) {
+    console.error("Error fetching data:", error);
+  }
+};
